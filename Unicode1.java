@@ -3,7 +3,7 @@ public class Unicode1 {
   public static void main(String[] args) {
 
     // 文字「测」
-    char c = '测';
+    char c = '试测';
     
     // 取得Unicode code
     int code = (int)c;
