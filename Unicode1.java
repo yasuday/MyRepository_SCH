@@ -8,9 +8,9 @@ public class Unicode1 {
     // 取得Unicode codc
     int code2 = (int)c;
     
-    System.out.println(cod2e);
+    System.out.println(code2);
 
-    System.out.println(Integer.toHexString(cod2e));
+    System.out.println(Integer.toHexString(code2));
     
   }
 }
