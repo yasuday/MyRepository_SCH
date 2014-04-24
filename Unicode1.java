@@ -5,12 +5,12 @@ public class Unicode1 {
     // 文字「测」
     char c = '试测';
     
-    // 取得Unicode code
-    int code = (int)c;
+    // 取得Unicode codc
+    int code2 = (int)c;
     
-    System.out.println(code);
+    System.out.println(cod2e);
 
-    System.out.println(Integer.toHexString(code));
+    System.out.println(Integer.toHexString(cod2e));
     
   }
 }
