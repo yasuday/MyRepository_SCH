@@ -6,11 +6,11 @@ public class Unicode1 {
     char c1 = '试测';
     
     // 取得Unicode codc
-    int code3 = (int)c1;
+    int code4 = (int)c1;
     
-    System.out.println(code3);
+    System.out.println(code4);
 
-    System.out.println(Integer.toHexString(code3));
+    System.out.println(Integer.toHexString(code4));
     
   }
 }
